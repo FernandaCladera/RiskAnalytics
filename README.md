@@ -31,5 +31,5 @@ Install `requirements_r.txt`
 
 ## Final Report:
 
-The final report for this project summarizes the findings, analyses, and conclusions based on the data and methodologies applied throughout the work (See here: [here](https://github.com/username/RiskAnalytics/blob/main/Final_Report.pdf)). The detailed questions and tasks that guided the development of this report are outlined in the project [Project Description](https://github.com/username/RiskAnalytics/blob/main/Descriptions/Practica2.pdf).
+The final report for this project summarizes the findings, analyses, and conclusions based on the data and methodologies applied throughout the work (See here: [here](https://github.com/FernandaCladera/RiskAnalytics/blob/main/Final_Report.pdf)). The detailed questions and tasks that guided the development of this report are outlined in the project [Project Description](https://github.com/FernandaCladera/RiskAnalytics/tree/main/Descriptions).
 
