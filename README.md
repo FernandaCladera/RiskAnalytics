@@ -1,6 +1,6 @@
 # RiskAnalytics
 
-Welcome to the Risk Analytics 2024 project! This repository is all about exploring how we can use data and advanced statistical methods to tackle real-world challenges in finance, weather, and air pollution.
+This repository contains the project “Risk Analytics 2024,” developed for the HEC-501 course at University of Lausanne. The project explores statistical and modeling techniques applied to financial markets, extreme weather, and environmental pollution. It is structured into three practicals, each addressing a unique risk domain:
 
 ### Practical 1:
 Financial analytics, focusing on the behavior of cryptocurrency returns, stationarity, normality assumptions, and volatility modeling using ARIMA and GARCH approaches. Dependencies between Bitcoin and Ethereum are also analyzed.
